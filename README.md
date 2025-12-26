@@ -5,3 +5,4 @@
 5、3、4的代码要改位置：（存放数据的位置）
 GENOME_FA   = "/home/huajin/newdisk_1/sxk/songwei/organelle_genome_contamination_verification/shuidao/10000/fchlo/query_oneline.fasta"
 CANDIDATE_FA= "/home/huajin/newdisk_1/sxk/songwei/organelle_genome_contamination_verification/shuidao/10000/fchlo/extracted_HTG_updown_region.fasta"
+6、4.py是最重要的文件，最开始的文件
