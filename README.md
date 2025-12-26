@@ -1,0 +1,2 @@
+1、extract_HGT_sequences.py提取正确的水平基因转移
+2、extract_false_HGT_sequences.py提取错误的水平基因转移
